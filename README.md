@@ -1,7 +1,5 @@
-# Tauri + Svelte + Typescript
+# Randy
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+He'll give you anything you want, so long as you want a random integer from 0 to 99
 
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+![Randy himself](https://github.com/glvno/randy/blob/main/public/wizard_transparent.png)
